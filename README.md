@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hey, I'm Ramses 👋
+
+I'm a 20 year old developer.
+
+## 🔭 Current
+
+Not currently working on any personal projects. To keep myself busy, I manage [Pain Calendar](https://pain.rip) and program Discord bots for the server. 
+
+## ⚡️ Experience
+
+I've been a front-end developer for about 5 years now. I recently started back-end development around 2 years ago with JS and have expanded since then into Java, Python, and most recently Golang. 
+
+## 📫 Contact
+
+To contact me quickly and easily, [DM me on Twitter](https://twitter.com/ramsesxsalcedo).
+
+If it's something more business related, email me: me@ramsessalcedo.com
 
 <!--
 **ramsessalcedo/ramsessalcedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
