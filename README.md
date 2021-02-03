@@ -4,7 +4,7 @@ I'm a 20 year old developer.
 
 ## 🔭 Current
 
-Not currently working on any personal projects. To keep myself busy, I manage [Pain Calendar](https://pain.rip) and program Discord bots for the server. 
+Not currently working on any personal projects. To keep myself busy, I manage [Pain](https://pain.rip) and program Discord bots for the server. 
 
 ## ⚡️ Experience
 
