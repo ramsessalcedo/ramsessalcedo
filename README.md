@@ -4,7 +4,7 @@ I'm a 20 year old developer.
 
 ## 🔭 Current
 
-Not currently working on any personal projects. To keep myself busy, I manage [Pain](https://pain.rip) and program Discord bots for the server. 
+Currently working as a freelance developer writing custom solutions for sneaker-based projects and information distribution in NodeJS (and learning Go/Python as I go)
 
 ## ⚡️ Experience
 
