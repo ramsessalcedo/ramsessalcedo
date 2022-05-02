@@ -4,7 +4,7 @@ I'm a 21 year old developer.
 
 ## 🔭 Current
 
-Currently working as a freelance developer writing custom solutions for sneaker-based projects and information distribution in NodeJS (and learning Go/Python as I go)
+Currently working as a freelance developer writing custom solutions for sneaker-based projects and information distribution in NodeJS (and learning Go/Python as I go).
 
 ## ⚡️ Experience
 
