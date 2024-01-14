@@ -1,6 +1,6 @@
 ### Hey, I'm Ramses 👋
 
-I'm a 22 year old developer.
+I'm a 23 year old developer.
 
 ## 🔭 Current
 
@@ -8,7 +8,7 @@ Currently working as a freelance developer writing custom solutions for sneaker-
 
 ## ⚡️ Experience
 
-I've been a front-end developer for about 5 years now. I recently started back-end development around 2 years ago with JS and have expanded since then into Java, Python, and most recently Golang. 
+I've been a front-end developer for about 7 years now. I recently started back-end development around 2 years ago with JS and have expanded since then into Java, Python, and most recently Golang. 
 
 ## 📫 Contact
 
