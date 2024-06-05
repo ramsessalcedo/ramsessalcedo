@@ -12,7 +12,7 @@ I've been a front-end developer for about 7 years now. I recently started back-e
 
 ## 📫 Contact
 
-To contact me quickly and easily, [DM me on Twitter](https://twitter.com/ramsesxsalcedo).
+To contact me quickly and easily, [DM me on Twitter](https://twitter.com/).
 
 If it's something more business related, email me: me@ramsessalcedo.com
 
